@@ -1,0 +1,14 @@
+*{
+     margin: 0;
+    padding: 0;
+    box-sizzing: border-box;
+} 
+box{
+    background-color: black;
+}
+section{
+    width: 25%;
+    height: 25vh;
+    background-color: aquamarine;
+}
+ 
